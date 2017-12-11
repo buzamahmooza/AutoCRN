@@ -27,4 +27,4 @@ Either through the task manager Ctrl+Shift+Esc
 Or from the Taskbar (at the bottom right corner).
 
 
-This script was made using <a src="https://autohotkey.com/">AutoHotkey</a>
+This script was made using <a src=https://autohotkey.com/>AutoHotkey</a>
