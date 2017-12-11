@@ -1,11 +1,14 @@
 # AutoCRN
-A program to input Code Registration Numbers (CRNs) as a keyboard input. Helpful for online University course registrations.
+A simple AutoHotkey script to input Code Registration Numbers (CRNs) as a keyboard input.
+Helpful for online University course registrations.
+
 AutoCRN 1.0
 Faris Hijazi AHK Script 11.30.2017
 
 
 Desciption:
-	This program will read a list of CRNs from a text file (should be in the same directory).
+	This program will input a list of CRNs from a text file.
+	Can be used on any browser/program.
 
 
 Setup:
@@ -24,5 +27,4 @@ Either through the task manager Ctrl+Shift+Esc
 Or from the Taskbar (at the bottom right corner).
 
 
-This script was made using AutoHotkey
-	Link:	<a>https://autohotkey.com/</a>
+This script was made using <a src="https://autohotkey.com/">AutoHotkey</a>
