@@ -5,7 +5,7 @@ Helpful for online University course registrations.
 AutoCRN 1.0
 Faris Hijazi AHK Script 11.30.2017
 
-Download: <a>https://github.com/buzamahmooza/AutoCRN/archive/master.zip</a>
+[Download](https://github.com/buzamahmooza/AutoCRN/archive/master.zip)
 
 Desciption:
 	This program will input a list of CRNs from a text file.
@@ -28,4 +28,4 @@ Either through the task manager Ctrl+Shift+Esc
 Or from the Taskbar (at the bottom right corner).
 
 
-This script was made using AutoHotkey <a>https://autohotkey.com/</a>
+This script was made using [AutoHotkey](https://autohotkey.com/)
