@@ -7,16 +7,16 @@ Faris Hijazi AHK Script 11.30.2017
 
 [Download](https://github.com/buzamahmooza/AutoCRN/archive/master.zip)
 
-###Desciption:
+### Desciption:
 1. This program will input a list of CRNs from a text file.
 	Can be used on any browser/program.
 
 
-###Setup:
+### Setup:
 1. Create a file called "CRN.txt" in the same directory, and fill it with the CRNs you want to fill
 	(Or modify the included example "CRN.txt").
 
-###How to use:
+### How to use:
 1. Launch "AutoCRNs.exe", you will be prompted with a message and will tell you what the HOTKEY is.
 2. When it's time to register, select the first textbox by clicking on it.
 3. Press the activate hotkey and the CRNs will be typed and seperated by TAB strokes.
