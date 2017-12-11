@@ -25,4 +25,4 @@ Or from the Taskbar (at the bottom right corner).
 
 
 This script was made using AutoHotkey
-	Link:	https://autohotkey.com/
+	Link:	<a>https://autohotkey.com/</a>
