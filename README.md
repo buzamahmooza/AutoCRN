@@ -5,6 +5,7 @@ Helpful for online University course registrations.
 AutoCRN 1.0
 Faris Hijazi AHK Script 11.30.2017
 
+Download: <a>https://github.com/buzamahmooza/AutoCRN/archive/master.zip</a>
 
 Desciption:
 	This program will input a list of CRNs from a text file.
